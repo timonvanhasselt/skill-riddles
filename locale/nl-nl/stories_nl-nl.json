@@ -1,0 +1,18 @@
+[
+    {
+        "story": "Een vrouw liep een café binnen, en bestelde een glas water.\nDe man achter de bar pakte een jachtgeweer en richtte dat op haar.\n\n\nDe vrouw bedankte hem, en ging weer weg.",
+        "solution": "De vrouw had de hik. De man gebruikte het geweer om haar te laten schrikken, zodat haar hik verdween.",
+        "solution_keywords": ["hik"],
+        "yes_keywords": [
+            "probleem", "glas water", "oplossen", "helpen", "laten schrikken",
+            "effectief", "geweer", "bedoeling", "bedanken", 
+            "moeilijkheid", "ademhaling", "genezen", "remedie", "schrikken", "beëindigen", "vroeg om hulp", "help", "vroeg hulp"
+        ],
+        "no_keywords": [
+            "boos", "pijn", "misdrijf", "schieten", "gevaar", "dood", "verwonding",
+            "kwaad", "geweld", "moord", "verwonden", "aanvallen", "agressie",
+            "boef", "crimineel", "stelen", "overval", "diefstal", "bedreigen", 
+            "schuld", "kennen ze elkaar", "dorst", "dief", "overvaller", "ruzie", "vergiftigd", "iets gedaan", "kennen elkaar", "dronken"
+        ]
+    }
+]

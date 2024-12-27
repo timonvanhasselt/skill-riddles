@@ -1,0 +1,18 @@
+[
+    {
+        "story": "A woman walked into a café and ordered a glass of water.\nThe man behind the bar grabbed a shotgun and pointed it at her.\n\n\nThe woman thanked him and walked away.",
+        "solution": "The woman had the hiccups. The man used the gun to startle her, making her hiccups go away.",
+        "solution_keywords": ["hiccup", "hiccups"],
+        "yes_keywords": [
+            "problem", "glass of water", "solve", "help", "startle", 
+            "effective", "intention", "thanking",
+            "difficulty", "breathing", "cure", "remedy", "scared", "end", "asked for help", "help", "ask for help", "was she alone"
+        ],
+        "no_keywords": [
+            "angry", "pain", "crime", "shoot", "shooting", "in danger", "death", "injury", "attacking", "hurting",
+            "evil", "violence", "murder", "wounded", "attack", "aggression", 
+            "thief", "criminal", "steal", "robbery", "theft", "threaten", "gun",
+            "guilt", "do they know each other", "thirst", "robber", "robbery", "fight", "poisoned", "did something", "know each other", "drunk", "arguing", "fighting"
+        ]
+    }
+]
